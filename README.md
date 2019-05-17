@@ -1,7 +1,8 @@
 # RPGWorld-Forest-Maker
 Quickly create dense forests in your world.
 How to use Forest Maker:
-Download the zip file and unzip it to your RPGWorld user directory. If you don#t know where that is put a message on the RPGWorld/General Discussions/RPGWorld Creator toys thread and I will explain.
+Download the zip file and unzip it to your RPGWorld user directory. 
+If you don't know where that is put a message on the RPGWorld/General Discussions/RPGWorld Creator toys thread and I will explain.
 The zip file contains the program and one support file.
 The technique used by the program only works convincingly for trees in flatland areas.
 The program will (optionally) look for unpainted trees of type 1, 5, (the first dead tree) and Xmas trees and replace them with copses, randomly rotated.
